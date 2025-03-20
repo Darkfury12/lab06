@@ -1,5 +1,5 @@
 class Hello{
 	public static void main(String[] args){
-		System.out.println("Hello, I am Sabeeh :)");
+		System.out.println("Hello, from conflicting branch");
 	}
 }
